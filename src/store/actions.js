@@ -1,6 +1,6 @@
 import Vue from "vue";
 
-export default {   // PENDENTE!
+export default {   
 
   loadData({ commit }) {
 
