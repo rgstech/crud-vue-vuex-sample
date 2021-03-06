@@ -1,4 +1,4 @@
-# crud1
+# crud vuejs with vuex sample
 
 ## Project setup
 ```
